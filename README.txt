@@ -6,6 +6,3 @@ docker run -d -p 8080:80 moja_aplikacja:latest
 
 // Wynik (sprawdzenie curlem):
 curl http://localhost:8080 
-
-
-# Maksym Shepeta
